@@ -1,0 +1,1 @@
+This task is a Node.js and Express-based API for managing mentors and students, with MongoDB as the database. It provides endpoints to create mentors and students, assign students to mentors, retrieve students for a specific mentor, and retrieve the previously assigned mentor for a student.
